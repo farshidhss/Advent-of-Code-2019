@@ -103,4 +103,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-*_playground.ipynb
+*_playground*.ipynb
